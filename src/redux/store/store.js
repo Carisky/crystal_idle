@@ -6,7 +6,7 @@ import { thunk } from 'redux-thunk';
 import reducer from '../reducer/reducer';
 
 const persistConfig = {
-  key: 'root',
+  key: 'root11111111111',
   storage,
 };
 
