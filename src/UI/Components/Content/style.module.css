@@ -1,0 +1,8 @@
+.content{
+    flex-grow: 1;
+    background-color: #282c34;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

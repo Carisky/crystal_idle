@@ -1,0 +1,27 @@
+.footer{
+    display: flex;
+    background-color: #282c34;
+    color: aliceblue;
+}
+.nav{
+    flex-grow: 1;
+    display: flex;
+}
+
+.nav_element{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    flex-grow: 1;
+}
+
+.nav_action{
+    height: 30px;
+    border-radius: 10px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+}
